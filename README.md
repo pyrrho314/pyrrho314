@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pyrrho314
+- 👀 I’m interested in logic.
+- 🌱 I’m currently learning.
+- 📫 How to reach me: pyrrho314@novem.technology
